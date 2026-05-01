@@ -91,14 +91,16 @@ Next.js, JavaScript, Tailwind CSS, APIs, Vercel
 ## GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcSaad-Hadidi&layout=compact&hide_border=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcSaad-Hadidi&show_icons=true&hide_border=true&theme=github_dark" />
 </p>
 
----
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcSaad-Hadidi&layout=compact&hide_border=true&theme=github_dark" />
+</p>
 
 ## Contact
 
-- Portfolio: Coming soon
+- Portfolio: [](https://marc-saad-hadidi.vercel.app/)
 - LinkedIn: [linkedin.com/in/marcsaad-hadidi](https://www.linkedin.com/in/marcsaad-hadidi/)
 - GitHub: [github.com/MarcSaad-Hadidi](https://github.com/MarcSaad-Hadidi)
 - Email: [hadidimarc@gmail.com](mailto:hadidimarc@gmail.com)
