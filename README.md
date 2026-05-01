@@ -1,68 +1,27 @@
 # Hi, I’m Marc 👋
 
-**Software Engineering Student | Full-Stack Developer | Founder of Trouvable**
+I’m a **Software Engineering Student** based in Montreal, focused on building full-stack web applications, business dashboards, and user-centered digital products.
 
-I am a software engineering student based in Montreal, currently completing a Diploma of Collegial Studies in **Software Engineering Technology at Collège de Bois-de-Boulogne**.
+I enjoy creating practical software solutions that combine clean design, strong architecture, and real business value. My work mainly focuses on modern web development, automation, visibility tools, and scalable digital platforms.
 
-My work focuses on building full-stack web applications, business dashboards, and user-centered digital products. I am particularly interested in software architecture, modern web development, clean interface design, automation, and the creation of practical tools that bring real value to users and businesses.
-
-I am also the **Founder and Project Lead of Trouvable**, an AI visibility platform designed to help local businesses improve their presence on Google, AI search engines, and modern discovery channels.
+I’m also the **Founder & Project Lead of Trouvable**, a platform helping local businesses improve their visibility on Google and AI-powered search engines.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### [Trouvable](https://www.trouvable.app/) — Currently in development
+### [Trouvable](https://www.trouvable.app/) — Next.js, Supabase, Clerk, Tailwind CSS  
+AI visibility platform designed to help local businesses improve their online presence through SEO, GEO, audits, dashboards, and visibility tracking.
 
-Trouvable is an AI visibility platform focused on helping local businesses improve their online presence through SEO, GEO, AI search visibility, audits, dashboards, and business insights.
+### [Givn](https://givn-ten.vercel.app/) — Next.js, TypeScript, Prisma, Tailwind CSS  
+Donation verification platform built to organize, structure, and present corporate donation and impact information clearly.
 
-**Main features:**
-
-- Client visibility audits
-- Admin dashboard and client portal
-- SEO and AI discovery analysis
-- Business profile tracking
-- Recurring audit and monitoring workflows
-- Modern interface for managing visibility performance
-
-**Technologies:**  
-Next.js, React, TypeScript, Supabase, Clerk, Tailwind CSS, Vercel, Cloudflare
+### [Stocks](https://stocks-eight-delta.vercel.app/) — Next.js, JavaScript, Tailwind CSS  
+Stock market dashboard focused on clean data presentation, responsive UI, and dynamic market information.
 
 ---
 
-### [Givn](https://givn-ten.vercel.app/) — On hold
-
-Givn is a donation verification platform focused on organizing and presenting corporate donation and impact information in a clear and structured way.
-
-**Main features:**
-
-- Corporate donation display
-- Impact information organization
-- Reusable interface components
-- Structured full-stack application logic
-
-**Technologies:**  
-Next.js, TypeScript, Prisma, Tailwind CSS, Vercel
-
----
-
-### [Stocks](https://stocks-eight-delta.vercel.app/) — On hold
-
-Stocks is a stock market dashboard designed to present market information through a clean, responsive, and user-friendly interface.
-
-**Main features:**
-
-- Stock information sections
-- Market data presentation
-- Responsive dashboard interface
-- Dynamic front-end components
-
-**Technologies:**  
-Next.js, JavaScript, Tailwind CSS, APIs, Vercel
-
----
-
-## Skills
+## 🛠️ Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,dart,swift,html,css" />
@@ -80,28 +39,18 @@ Next.js, JavaScript, Tailwind CSS, APIs, Vercel
   <img src="https://skillicons.dev/icons?i=supabase,prisma,figma,bash" />
 </p>
 
-**Programming:** Python, C++, C, Java, JavaScript, TypeScript, HTML, CSS, Dart, Swift, SQL, Q  
-**Frameworks & Libraries:** Next.js, React, Angular, Node.js, NestJS, Flutter, React Native, Electron, Tailwind CSS, PyTorch, Scikit-learn, Pandas, NumPy  
-**Cloud & DevOps:** AWS, Azure, GCP, Vercel, Docker, Terraform, Git, GitLab, GitHub Actions, CI/CD  
-**Databases & Backend:** PostgreSQL, Supabase, Prisma, KDB+  
-**Tools:** GitHub, Clerk, Postman, Figma, Bash, Linux  
-
 ---
 
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
-<!-- <img height="180em" src="https://github-readme-stats-a4nkw2dxv-capoships-projects.vercel.app/api?username=MarcSaad-Hadidi&show_icons=true&hide_border=true&theme=transparent" /> -->
   <img height="180em" src="https://github-readme-stats-a4nkw2dxv-capoships-projects.vercel.app/api/top-langs/?username=MarcSaad-Hadidi&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-## Contact
+## 🌐 Connect
 
-- Portfolio: [marc-saad-hadidi.vercel.app](https://marc-saad-hadidi.vercel.app/)
-- LinkedIn: [linkedin.com/in/marcsaad-hadidi](https://www.linkedin.com/in/marcsaad-hadidi/)
-- GitHub: [github.com/MarcSaad-Hadidi](https://github.com/MarcSaad-Hadidi)
-- Email: [hadidimarc@gmail.com](mailto:hadidimarc@gmail.com)
+📎 [Portfolio](https://marc-saad-hadidi.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/marcsaad-hadidi/)  
+✉️ [Email](mailto:hadidimarc@gmail.com)
