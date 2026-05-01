@@ -1,4 +1,4 @@
-# Marc Saad-Hadidi
+# Hi, I’m Marc 👋
 
 **Software Engineering Student | Full-Stack Developer | Founder of Trouvable**
 
